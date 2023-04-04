@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: JaniferL's home
 permalink: /
 ---
 
@@ -8,9 +8,8 @@ Make Jelly site have a GitBook look!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+The first day come to github.
+第一次在公众平台下写博客。
 
 ## Why Jekyll with GitBook
 
