@@ -4,7 +4,7 @@ title: JaniferL Gitbook Theme
 permalink: /
 ---
 
-数据分析准备23/4/11(https://github.com/JaniferL/JaniferL.github.io/blob/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92.md))。
+
 ## 名字由来
 JaniferL 
 `这个名字我喜欢的一本小说里面女主人公的名字[制霸好莱坞...作者：御井烹香]
